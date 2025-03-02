@@ -1,0 +1,9 @@
+# 项目依赖清单
+requests       # HTTP请求库
+docopt         # 命令行参数解析
+terminaltables # 终端表格显示
+nsenter        # 命名空间管理
+pychroot       # 文件系统隔离
+cgroups        # 资源限制管理
+pyroute2       # 网络配置管理
+colorama       # 终端颜色输出
